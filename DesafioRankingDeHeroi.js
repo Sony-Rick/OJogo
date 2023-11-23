@@ -2,7 +2,7 @@ var heroi= {
 
     nome: "Nome do Heroi",
 
-    xp: 900
+xp: 0000
 }
 console.log("Nome do herói: " + heroi.nome )
 console.log("Xp do herói: " + heroi.xp)
