@@ -2,7 +2,7 @@ var heroi= {
 
     nome: "Nome do Heroi",
 
-xp: 0000
+xp: 5000
 }
 console.log("Nome do herói: " + heroi.nome )
 console.log("Xp do herói: " + heroi.xp)
@@ -29,9 +29,6 @@ if (xpDoHeroi < 1000) {
     nivelDoHeroi = "Imortal";
 } else if (xpDoHeroi >= 10001) {
     nivelDoHeroi = "Radiante";
-    }    else (xpDoHeroi<=1000)
-    nivelDoHeroi ="Prata Afundado";{
-
     }
 
 
