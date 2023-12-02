@@ -27,7 +27,7 @@ if (xpDoHeroi < 1000) {
     nivelDoHeroi = "Ascendente";
 } else if (xpDoHeroi >= 8001 && xpDoHeroi <= 9000) {
     nivelDoHeroi = "Imortal";
-} else if (xpDoHeroi >= 10001) {
+} else (xpDoHeroi >= 10001) {
     nivelDoHeroi = "Radiante";
     }
 
